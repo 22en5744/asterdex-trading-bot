@@ -3,3 +3,4 @@
 [develop] Improve logging around quote failures
 [develop] Scaffold copy-trade listener module
 [develop] Tighten REST client retry policy
+[feature/risk-and-circuit-breakers] Track exposure per outcome key
