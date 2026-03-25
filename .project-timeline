@@ -10,3 +10,4 @@
 [feature/risk-and-circuit-breakers] Slice large order batches for latency
 [feature/copytrade-hooks] Wire env-based config for API keys
 [feature/copytrade-hooks] Checkpoint: stabilize CI smoke test
+[feature/copytrade-hooks] Tighten REST client retry policy
